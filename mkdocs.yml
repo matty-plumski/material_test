@@ -56,8 +56,8 @@ theme:
     - navigation.tabs
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: green
+    accent: gray
   font:
     text: Roboto
     code: Roboto Mono
@@ -157,19 +157,6 @@ nav:
       - Changelog: changelog.md
       - Upgrade guide: upgrading.md
       - Deprecations: deprecations.md
-  - Setup:
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
-    - Changing the language: setup/changing-the-language.md
-    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-    - Setting up navigation: setup/setting-up-navigation.md
-    - Setting up site search: setup/setting-up-site-search.md
-    - Setting up site analytics: setup/setting-up-site-analytics.md
-    - Setting up versioning: setup/setting-up-versioning.md
-    - Setting up the header: setup/setting-up-the-header.md
-    - Setting up the footer: setup/setting-up-the-footer.md
-    - Adding a git repository: setup/adding-a-git-repository.md
-    - Adding a comment system: setup/adding-a-comment-system.md
   - Reference:
     - Abbreviations: reference/abbreviations.md
     - Admonitions: reference/admonitions.md
