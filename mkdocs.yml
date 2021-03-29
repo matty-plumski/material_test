@@ -37,7 +37,7 @@ copyright: Copyright &copy; 2016 - 2021 Martin Donath
 
 # Configuration
 theme:
-  name: null
+  name: material
   custom_dir: material
 
   # Static files
@@ -90,13 +90,13 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
+      link: https://github.com/matty-plumski
     - icon: fontawesome/brands/gitter
       link: https://gitter.im/squidfunk/mkdocs-material
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
+      link: https://twitter.com/matty_plumski
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/squidfunk/
     - icon: fontawesome/brands/instagram
