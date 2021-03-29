@@ -88,8 +88,8 @@ specific pages by adding the following to the front matter of a page:
 [:octicons-file-code-24: Source][8] ·
 :octicons-mortar-board-24: Difficulty: _easy_
 
-In order to integrate another JavaScript-based comment system provider, you can
-[extend the theme][9] and [override the `disqus` block][10]:
+<!--In order to integrate another JavaScript-based comment system provider, you can
+[extend the theme][9] and [override the `disqus` block][10]: -->
 
 ``` html
 {% block disqus %}
