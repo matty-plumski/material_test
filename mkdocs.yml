@@ -85,6 +85,12 @@ plugins:
         sponsorship.md: insiders/index.md
   - minify:
       minify_html: true
+      minify_js: true
+      htmlmin_opts:
+          remove_comments: true
+      js_files:
+          - my/javascript/dir/file1.js
+          - my/javascript/dir/file2.js
 
 # Customization
 extra:
